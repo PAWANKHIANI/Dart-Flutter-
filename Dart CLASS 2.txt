@@ -1,0 +1,77 @@
+void main(){
+  
+ /* 
+  * OVERVIEW
+  var variablename = 22;
+  
+  String firstdatatype = "abc";
+  
+  int seconddatatype = 24;
+  
+  double thirddatatype = 55;
+  
+  num fourthdatatype = 66.3;
+  
+  print(thirddatatype);
+  print(fourthdatatype);
+  
+  double firstvalue = 88;
+  double secondvalue = 88;
+  double answer = firstvalue + secondvalue;
+  
+  print(answer);
+  print("variable name");*/
+  
+  // If Else Statement
+  /*var num1 = 12;
+  var num2 = 19;
+  var string1 ="aba";
+  var string2 ="aba";
+  
+  if(string1 == string2)
+  {
+    print("True");
+  }
+  else
+    print("False");
+  */
+  
+//  int num1 = 120;
+//  int num2 = 240;
+  //var string1 = "aaa";
+  //var string2 = "aba";
+  
+  //IF ELSE STATEMENT
+  //NUMBER COMPARISON
+ /* if(num1 == num2){
+    print("True");
+  }
+  else{
+  print("False")
+  }
+    
+  //NESTED IF ELSE
+    if(num1 <= num2)
+    {
+      print("True1");
+    }
+  else
+    if(num1 >= num2)
+    {
+      print("True2");
+    }
+  else{
+    print("False");
+  }*/
+ 
+  //STRING COMPARISON
+  /*if(string1 == string2)
+  {
+    print("True");
+  }
+  else{
+    print("False");
+  }
+  */
+  
+}

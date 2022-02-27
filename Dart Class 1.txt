@@ -1,0 +1,66 @@
+void main() {
+  
+  // ADDITION OF THREE VARIABLES
+ 
+  /*var sub1 = 22;
+  var sub2 = 22;
+  var sub3 = 44;
+  var a = sub1 + sub2 + sub3;
+    print (a);*/
+
+  //ADDITION OF VARIABLES
+  /*var num1 = 12;
+  print(num1);
+  
+  var num2 = 14 + num1;
+  print(num2);
+    
+  var num3 = num1 + num1;
+  print(num3);
+    
+  var result = num1 + num2 + num3;
+    print(result);*/
+  
+  // PERCENTAGE
+  /*var total = 300;
+  var pf = 95;
+  var cal = 98;
+  var ccna = 50;
+  var obtain = pf + cal + ccna;
+  print("Total Marks = 300");
+  print("Obtain Marks $obtain");
+  var percentage = (obtain/total*100);
+  print("your Percentage is $percentage%");
+*/
+  
+ /* int num1 = 13;
+  
+  double num2 = 14;
+  
+  num num3 = num1 + num2;
+  
+  print(num3);*/
+  
+// MARKSHEET
+ /* num total = 500;
+  num pf = 95;
+  num cal = 98;
+  num ccna = 50;
+  num phy = 80;
+  num eng = 67;
+  num obtain = pf + cal + ccna + phy + eng;
+  print("Total Marks = 500");
+  print("Obtain Marks $obtain");
+  num percentage = ((obtain/total)*100);
+  print("your Percentage is $percentage%");
+*/
+  
+  //ARTHIMETIC OPERATIONS
+  /*print(6+4);//Addition
+  print(6-4);//Subtraction
+  print(6*4);//Multipication
+  print(6/4);//Division
+  print(6%4);//Get the remainder
+  print(6~/4);//Get the remainder in integer value*/
+
+}
